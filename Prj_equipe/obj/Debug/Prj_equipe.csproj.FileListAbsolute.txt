@@ -1,0 +1,9 @@
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\bin\Debug\Prj_equipe.exe.config
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\bin\Debug\Prj_equipe.exe
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\bin\Debug\Prj_equipe.pdb
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.csprojResolveAssemblyReference.cache
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.Properties.Resources.resources
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.csproj.GenerateResource.Cache
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.exe
+c:\users\lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.pdb
+C:\Users\Lafor\documents\visual studio 2015\Projects\Prj_equipe\Prj_equipe\obj\Debug\Prj_equipe.Projet.resources
